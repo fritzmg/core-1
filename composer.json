@@ -66,7 +66,7 @@
                 "system/modules/isotope_rules/library"
             ],
             "UnitedPrototype\\": [
-                "system/modules/isotope/library"
+                "system/modules/isotope/library/UnitedPrototype/"
             ]
         },
         "classmap": [
